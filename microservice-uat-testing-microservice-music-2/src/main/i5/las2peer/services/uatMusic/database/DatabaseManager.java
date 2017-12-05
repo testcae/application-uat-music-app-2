@@ -1,4 +1,4 @@
-package i5.las2peer.services.uat-music.database;
+package i5.las2peer.services.uatMusic.database;
 
 import java.sql.Connection;
 import java.sql.SQLException;
